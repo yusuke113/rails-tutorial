@@ -1,0 +1,15 @@
+current directory: /Users/yusuke/Desktop/enviroment/hello_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190806-46891-14iodom.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yusuke/Desktop/enviroment/hello_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/yusuke/Desktop/enviroment/hello_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/yusuke/Desktop/enviroment/hello_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190806-46891-kfuom1/bootsnap
